@@ -1,0 +1,24 @@
+<!-- Index.cshtml -->
+@model IEnumerable<DeltaCore.Models.Product>
+
+<h2 class="text-primary">Products</h2>
+
+<table class="table table-striped table-bordered">
+    <thead class="text-white bg-dark">
+        <tr>
+            <th>Product Id</th>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.ProductId</td>
+                <td>@product.Name</td>
+                <td>@product.Description</td>
+            </tr>
+        }
+    </tbody>
+</table>
