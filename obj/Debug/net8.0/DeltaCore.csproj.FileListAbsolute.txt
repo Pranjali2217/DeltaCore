@@ -58,3 +58,4 @@ D:\My projects\DeltaCore\obj\Debug\net8.0\refint\DeltaCore.dll
 D:\My projects\DeltaCore\obj\Debug\net8.0\DeltaCore.pdb
 D:\My projects\DeltaCore\obj\Debug\net8.0\DeltaCore.genruntimeconfig.cache
 D:\My projects\DeltaCore\obj\Debug\net8.0\ref\DeltaCore.dll
+D:\My projects\DeltaCore\obj\Debug\net8.0\DeltaCore.sourcelink.json
