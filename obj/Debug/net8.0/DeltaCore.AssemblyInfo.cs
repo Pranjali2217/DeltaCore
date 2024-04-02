@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeltaCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8f94dd02f0bd0f20f3bd01d67209fb1e2f63839")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db922e544e630569bf84f5f97d4e6e5f7cbc9da9")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeltaCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeltaCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
